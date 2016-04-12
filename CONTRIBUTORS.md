@@ -1,3 +1,4 @@
+Version: 1.0
 @iamtakashi
 @karmatosed
 @iandstewart
@@ -36,3 +37,17 @@
 @tevko
 @kraftbj
 @walbo
+
+Version 1.1
+@iamtakashi
+@karmatosed
+@lancewillett
+@joefusco
+@emiluzelac
+
+Version 1.2
+@iamtakashi
+@karmatosed
+@obenland
+@joefusco
+@westonruter
